@@ -12,6 +12,6 @@ Discover is available from Rocketseat. It is a free program where the main objec
 
 The Discover Marathon was a Rocketseat event, where a financial management application with HTML, CSS and JavaScript was developed from scratch.
 
-### Repository of Discover Marathon
+### Repository of Discover Marathon 💰
 
 * https://github.com/dwyvid1/Discover-Marathon
